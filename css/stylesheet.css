@@ -4,24 +4,33 @@ body {
 }
 
 form {
-    width: 600px;
-    margin-top: 20px;
+    width: 300px;
     background-color: #ddd;
     margin: auto;
     padding: 20px;
+
 }
 
 form input {
-    width: 100%;
+    width: 260px;
     padding: 12px;
+    margin: 5px;
+
+}
+
+form #button {
+    width: 288px;
+
+}
+form label {
     margin: 5px;
 }
 
-form button {
-    padding: 12px;
-    margin: 5px;
+form input:required {
+    border-color: #88a;
 }
 
 form input:invalid {
     border: 2px solid #ff0000;
 }
+
