@@ -18,19 +18,13 @@ form input {
 
 }
 
-form #button {
+form button {
     width: 288px;
+    padding: 12px;
+    margin: 5px;
 
 }
 form label {
     margin: 5px;
-}
-
-form input:required {
-    border-color: #88a;
-}
-
-form input:invalid {
-    border: 2px solid #ff0000;
 }
 
