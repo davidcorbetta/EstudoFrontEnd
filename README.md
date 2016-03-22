@@ -1,3 +1,3 @@
 ### Estudo Front End
 
-Repositório para estudo de Javascript e CSS para FrontEnd.
+RepositÃ³rio para estudo de Javascript e CSS para FrontEnd.
